@@ -35,3 +35,4 @@ CDBurnerXP
 XnView
 Greenshot
 anaconda3
+tableau
