@@ -34,5 +34,6 @@ realvnc
 CDBurnerXP
 XnView
 Greenshot
-anaconda3
+anaconda3 /DoNotRegister
 tableau
+python --version 2.x
