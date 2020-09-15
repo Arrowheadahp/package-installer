@@ -37,3 +37,4 @@ Greenshot
 anaconda3 /DoNotRegister
 tableau
 python --version 2.x
+msiafterburner
