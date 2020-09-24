@@ -3,7 +3,6 @@ HWiNFO
 orwelldevcpp
 ditto
 Git
-notepadplusplus
 streamlabs-obs
 qBittorrent
 SumatraPDF
@@ -12,10 +11,8 @@ Spotify
 TeamViewer
 Texmaker
 dotNet
-VLC
 VisualStudioCode
 WinDirStat
-WinRAR
 Arduino
 Discord
 Steam
@@ -34,7 +31,7 @@ realvnc
 CDBurnerXP
 XnView
 Greenshot
-anaconda3 /DoNotRegister
 tableau
-python --version 2.x
 msiafterburner
+LibreOffice
+VisuallCppBuildTools

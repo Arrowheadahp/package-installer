@@ -21,4 +21,4 @@ run the following command in admin cmd to install choco
 
 copy the packages.txt to C drive and run the following command in admin cmd
 
-for /f "tokens=*" %a in (../../packages.txt) do choco install %a -y
+for /f "tokens=*" %a in (../../packages.txt) do choco install %a -y --ignore-checksums
