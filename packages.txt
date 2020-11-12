@@ -39,3 +39,5 @@ autohotkey
 partitionwizard
 plexmediaserver
 microsoft-teams
+vlc
+mingw
