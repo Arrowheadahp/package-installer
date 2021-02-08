@@ -7,13 +7,11 @@ streamlabs-obs
 qBittorrent
 SumatraPDF
 Slack
-Spotify
 TeamViewer
 Texmaker
 dotNetfx
 VisualStudioCode
 WinDirStat
-Arduino
 Discord
 Steam
 EpicGamesLauncher
@@ -23,13 +21,10 @@ Zoom
 K-LiteCodecPack-Standard
 LibreOffice
 jre8
-WinSCP
 WinMerge
-musicbee
 realvnc
 CDBurnerXP
 Greenshot
-tableau
 msiafterburner
 LibreOffice
 VisuallCppBuildTools
@@ -40,4 +35,4 @@ partitionwizard
 plexmediaserver
 microsoft-teams
 vlc
-mingw
+virtualbox
