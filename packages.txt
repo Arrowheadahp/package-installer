@@ -35,3 +35,7 @@ microsoft-teams
 vlc
 virtualbox
 paint.net
+qttabbar
+dia
+musicbee
+aimp
