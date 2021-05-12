@@ -19,3 +19,4 @@ vlc
 qttabbar
 dia
 aimp
+shutup10
