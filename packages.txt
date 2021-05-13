@@ -39,5 +39,6 @@ qttabbar
 dia
 musicbee
 aimp
-shutup10
 airdroid
+recuva
+rainmeter

@@ -19,4 +19,4 @@ vlc
 qttabbar
 dia
 aimp
-shutup10
+recuva
