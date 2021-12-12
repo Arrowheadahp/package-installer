@@ -1,0 +1,1 @@
+GoogleChrome dotNetfx jre8 VisualCppBuildTools partitionwizard Git 7zip K-LiteCodecPack-Standard qttabbar HWiNFO qBittorrent LibreOffice WinDirStat VisualStudioCode Discord microsoft-teams notepadplusplus powertoys stremio scrcpy quicklook

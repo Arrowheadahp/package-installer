@@ -27,7 +27,7 @@ realvnc
 CDBurnerXP
 Greenshot
 msiafterburner
-VisuallCppBuildTools
+VisualCppBuildTools
 malwarebytes
 autohotkey
 plexmediaserver
@@ -39,6 +39,6 @@ qttabbar
 dia
 musicbee
 aimp
-airdroid
 recuva
 rainmeter
+WhatsApp
