@@ -1,1 +1,1 @@
-GoogleChrome dotNetfx jre8 VisualCppBuildTools partitionwizard Git 7zip K-LiteCodecPack-Standard qttabbar HWiNFO qBittorrent LibreOffice ChocolateyGUI WinDirStat VisualStudioCode Discord notepadplusplus powertoys stremio
+GoogleChrome dotNetfx jre8 VisualCppBuildTools partitionwizard Git 7zip K-LiteCodecPack-Standard qttabbar HWiNFO qBittorrent LibreOffice ChocolateyGUI WinDirStat VisualStudioCode Discord notepadplusplus stremio x-mouse-button-control twinkle-tray
