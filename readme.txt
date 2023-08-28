@@ -22,3 +22,10 @@ run the following command in admin cmd to install choco
 copy the packages.txt to C drive and run the following command in admin cmd
 
 for /f "tokens=*" %a in (../../packages.txt) do choco install %a -y --ignore-checksums
+
+
+
+
+
+Please install device specific drivers
+Niter: https://www.acer.com/us-en/support/product-support/AN515-45/NH.QBCSI.009/downloads
